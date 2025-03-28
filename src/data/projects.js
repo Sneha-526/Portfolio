@@ -17,7 +17,7 @@ export const projects = [
     title: "ForeCast Finder",
     image: getv,
     github: "https://github.com/Sneha-526/ForeCastFinder",
-    link: "https://sneha-526.github.io/ForeCastFinder/",
+    link: "https://fore-cast-finder.web.app/",
     description:
       "A Climate App that is responsible for showing climate data for a given city in real time.",
   },
