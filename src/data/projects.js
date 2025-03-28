@@ -3,12 +3,21 @@ import insight from "../assets/images/insight.png";
 import getv from "../assets/images/get-v.png";
 import NumSense from "../assets/images/NumSense.png"
 import Netflix from "../assets/images/Netflix.png"
+import logo from "../assets/images/logo.png"
 
 export const projects = [
+  {
+    title:"Portfolio",
+    image: logo,
+    github: "https://github.com/Sneha-526/Portfolio",
+    link:"sneha-portfolio-showcase.web.app/",
+    description: "My Personal Portfolio that describes about my knowledge and experience."
+  },
   {
     title: "ForeCast Finder",
     image: getv,
     github: "https://github.com/Sneha-526/ForeCastFinder",
+    link: "https://sneha-526.github.io/ForeCastFinder/",
     description:
       "A Climate App that is responsible for showing climate data for a given city in real time.",
   },
